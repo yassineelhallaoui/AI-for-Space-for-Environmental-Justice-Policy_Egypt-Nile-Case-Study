@@ -71,7 +71,7 @@ The automated framework will function as both an API and a modular tool that can
  
 
 ## Limitations of Study and Future Improvements:
-Due to the scope of this study, there are some limitations, including real-time data accessibility hindrances due to cloud coverage because water satellite data needs a clear sky.
-Currently, the case studies show yearly data comparisons; if we want more real-time data, we would have to use past data for future projections or invest in heavy computing software.
-To be able to access this data on software like an app, there would need to be sufficient storage or employees working on transferring the data from satellite imagery maps to dashboard statistics.
-Both data projections and application usage require network access and associated technologies (phone, laptop/computer, etc.) for handling the data.
+* Due to the scope of this study, there are some limitations, including real-time data accessibility hindrances due to cloud coverage because water satellite data needs a clear sky.
+* Currently, the case studies show yearly data comparisons; if we want more real-time data, we would have to use past data for future projections or invest in heavy computing software.
+* To be able to access this data on software like an app, there would need to be sufficient storage or employees working on transferring the data from satellite imagery maps to dashboard statistics.
+* Both data projections and application usage require network access and associated technologies (phone, laptop/computer, etc.) for handling the data.
